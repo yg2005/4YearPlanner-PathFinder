@@ -1,0 +1,155 @@
+{
+    "sas_core": {
+      "total_credits_needed": 42,
+      "total_credits_completed": 0,
+      "sections": [
+        {
+          "section": "21st Century Challenges",
+          "credits_needed": 3,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:220:102",
+              "title": "Introduction to Microeconomics",
+              "credits": 3,
+              "completed": false
+            },
+            {
+              "course_code": "01:988:101",
+              "title": "Women, Culture, and Society",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Natural Sciences",
+          "credits_needed": 6,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:119:115",
+              "title": "General Biology I",
+              "credits": 4,
+              "completed": false
+            },
+            {
+              "course_code": "01:160:161",
+              "title": "General Chemistry",
+              "credits": 4,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Social Sciences",
+          "credits_needed": 6,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:920:101",
+              "title": "Introduction to Sociology",
+              "credits": 3,
+              "completed": false
+            },
+            {
+              "course_code": "01:790:104",
+              "title": "American Government",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Historical Analysis",
+          "credits_needed": 3,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:506:110",
+              "title": "Age of Globalization",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Arts and Humanities",
+          "credits_needed": 6,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:730:201",
+              "title": "Introduction to Philosophy",
+              "credits": 3,
+              "completed": false
+            },
+            {
+              "course_code": "01:195:135",
+              "title": "Introduction to Literature",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Quantitative Reasoning",
+          "credits_needed": 6,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:640:135",
+              "title": "Calculus I",
+              "credits": 4,
+              "completed": false
+            },
+            {
+              "course_code": "01:960:211",
+              "title": "Statistics I",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Writing and Communication",
+          "credits_needed": 9,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:355:101",
+              "title": "Expository Writing",
+              "credits": 3,
+              "completed": false
+            },
+            {
+              "course_code": "01:355:201",
+              "title": "Research in the Disciplines",
+              "credits": 3,
+              "completed": false
+            },
+            {
+              "course_code": "01:355:302",
+              "title": "Scientific and Technical Writing",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "section": "Information Technology and Research",
+          "credits_needed": 3,
+          "credits_completed": 0,
+          "courses": [
+            {
+              "course_code": "01:198:170",
+              "title": "Computer Applications in Business",
+              "credits": 3,
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

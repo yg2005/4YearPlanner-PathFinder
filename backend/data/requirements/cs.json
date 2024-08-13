@@ -1,0 +1,199 @@
+{
+    "cs_degree": {
+      "total_credits_needed": 120,
+      "total_credits_completed": 0,
+      "core": {
+        "credits_needed": 30,
+        "credits_completed": 0,
+        "courses": [
+          {
+            "course_code": "01:198:111",
+            "title": "Introduction to Computer Science",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:112",
+            "title": "Data Structures",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:205",
+            "title": "Discrete Structures",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:211",
+            "title": "Computer Architecture",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:323",
+            "title": "Software Methodology",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:336",
+            "title": "Principles of Information and Data Management",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:416",
+            "title": "Operating Systems Design",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:437",
+            "title": "Database Systems",
+            "credits": 4,
+            "completed": false
+          }
+        ]
+      },
+      "electives": {
+        "credits_needed": 21,
+        "credits_completed": 0,
+        "courses": [
+          {
+            "course_code": "01:198:352",
+            "title": "Internet Technology",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:405",
+            "title": "Artificial Intelligence",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:408",
+            "title": "Computers in Biology",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:424",
+            "title": "Computer Networks",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:439",
+            "title": "Computer Graphics",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:440",
+            "title": "Introduction to Computer Security",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:453",
+            "title": "Advanced Algorithms",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:461",
+            "title": "Machine Learning",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:482",
+            "title": "Introduction to Data Science",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:486",
+            "title": "Visualization and Visual Analytics",
+            "credits": 3,
+            "completed": false
+          }
+        ]
+      },
+      "math_requirements": {
+        "credits_needed": 15,
+        "credits_completed": 0,
+        "courses": [
+          {
+            "course_code": "01:640:151",
+            "title": "Calculus I",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:640:152",
+            "title": "Calculus II",
+            "credits": 4,
+            "completed": false
+          },
+          {
+            "course_code": "01:640:250",
+            "title": "Introduction to Linear Algebra",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:198:206",
+            "title": "Introduction to Discrete Structures II",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:960:379",
+            "title": "Basic Probability and Statistics",
+            "credits": 3,
+            "completed": false
+          }
+        ]
+      },
+      "science_requirements": {
+        "credits_needed": 12,
+        "credits_completed": 0,
+        "courses": [
+          {
+            "course_code": "01:750:203",
+            "title": "General Physics",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:750:204",
+            "title": "General Physics Laboratory",
+            "credits": 1,
+            "completed": false
+          },
+          {
+            "course_code": "01:750:205",
+            "title": "General Physics II",
+            "credits": 3,
+            "completed": false
+          },
+          {
+            "course_code": "01:750:206",
+            "title": "General Physics II Laboratory",
+            "credits": 1,
+            "completed": false
+          },
+          {
+            "course_code": "01:160:161",
+            "title": "General Chemistry",
+            "credits": 4,
+            "completed": false
+          }
+        ]
+      }
+    }
+  }
+  
